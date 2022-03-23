@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Dificuldades preparam pessoas comuns para destinos extraordinários.
 Use the left arrow to go back!
